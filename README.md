@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+https://react-feeduiten-apps.vercel.app/
 
 ### `npm start`
 
